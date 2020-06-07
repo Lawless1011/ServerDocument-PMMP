@@ -4,7 +4,7 @@ namespace net\mydeacy\serverdocument\elements\interfaces;
 
 interface CommandFile extends Element {
 
-	const BUTTON_IMAGE = "textures/blocks/command_block.png";
+	const BUTTON_IMAGE = "textures/blocks/enchanting_table_top.png";
 
 	/**
 	 * @return string
