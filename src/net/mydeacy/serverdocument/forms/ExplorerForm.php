@@ -13,8 +13,8 @@ use pocketmine\Server;
 
 class ExplorerForm implements Form {
 
-	const FORM_TITLE = "§lServerDocument";
-	const BACK_BUTTON = " << Back";
+	const FORM_TITLE = "§l§gGreat War Book";
+	const BACK_BUTTON = " <<めくる";
 
 	/**
 	 * @var Element[]
